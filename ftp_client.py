@@ -2,7 +2,7 @@ from socket import *
 import sys
 import time
 
-#  具体功能
+#  具体功能hahahahahhahahahahah
 class FtpClient:
     def __init__(self,sockfd):
         self.sockfd = sockfd
